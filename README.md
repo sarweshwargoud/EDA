@@ -14,7 +14,7 @@ task2-aiml/
 ├── data/
 │    └── titanic.csv
 │
-├── EDA.ipynb
+├── task2.ipynb
 └── README.md
 
 🛠️ Tools & Libraries

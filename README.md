@@ -1,14 +1,15 @@
-📘 Exploratory Data Analysis (EDA) – Titanic Dataset
-📌 Overview
+## 📘 Exploratory Data Analysis (EDA) – Titanic Dataset
+# 📌 Overview
 
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset.
 The goal is to understand the structure of the data, identify important patterns, explore relationships between features, and extract useful insights for further machine learning tasks.
 
-🔗 GitHub Repository
+# 🔗 GitHub Repository
 
 Project Link: https://github.com/sarweshwargoud/task2-aiml.git
 
-📂 Project Structure
+# 📂 Project Structure
+```
 task2-aiml/
 │
 ├── data/
@@ -16,8 +17,8 @@ task2-aiml/
 │
 ├── task2.ipynb
 └── README.md
-
-🛠️ Tools & Libraries
+```
+## 🛠️ Tools & Libraries
 
 Python
 
@@ -29,23 +30,23 @@ Matplotlib
 
 Seaborn
 
-🖥️ How to Clone and Use This Project
-1️⃣ Clone the Repository
+## 🖥️ How to Clone and Use This Project
+# 1️⃣ Clone the Repository
 
 Open your terminal (or Git Bash) and run:
 
 git clone https://github.com/sarweshwargoud/task2-aiml.git
 
-2️⃣ Navigate into the Project Folder
+# 2️⃣ Navigate into the Project Folder
 cd task2-aiml
 
-3️⃣ Install Dependencies (Optional)
+# 3️⃣ Install Dependencies (Optional)
 
 If you’re using a virtual environment, install libraries using:
 
 pip install pandas numpy matplotlib seaborn
 
-4️⃣ Run the Notebook
+# 4️⃣ Run the Notebook
 
 You can open the notebook in:
 
@@ -66,7 +67,7 @@ Then open EDA.ipynb
 
 Just open the folder → click EDA.ipynb
 
-📊 Steps Performed in EDA
+# 📊 Steps Performed in EDA
 
 Loaded the Titanic dataset
 
@@ -84,7 +85,7 @@ Studied categorical patterns (Sex, Pclass, Survived)
 
 Identified trends and insights
 
-🔍 Brief Findings
+# 🔍 Brief Findings
 
 Females had a higher survival rate than males
 
@@ -98,12 +99,12 @@ Fare and Pclass show meaningful correlation with survival
 
 Age column contains missing values
 
-📁 Dataset
+# 📁 Dataset
 
-Kaggle Titanic Dataset:
+# Kaggle Titanic Dataset:
 https://www.kaggle.com/datasets/yasserh/titanic-dataset
 
-🏁 Output
+# 🏁 Output
 
 The notebook includes:
 
